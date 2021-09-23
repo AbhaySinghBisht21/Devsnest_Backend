@@ -1,0 +1,14 @@
+What is JavaScript?
+		A
+	Single -threaded 
+	Non blocking 
+	Asynchronous	
+	concurrent
+	languagues
+
+It have a
+Call Stack
+An event loop
+An callback Queue
+Some other api
+And stuff
